@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vscode/tasks.json
+/node_modules/**
+/_build/**
+settings.tfx.json
+*.vsix
